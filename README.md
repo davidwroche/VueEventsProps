@@ -1,4 +1,4 @@
-# tucrprops
+# VueEventsProps
 
 > A Vue.js project
 
